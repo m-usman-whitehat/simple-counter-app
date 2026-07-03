@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "com.simplecounter.app-release-37:/layout_activity_main.xml.flat",
+        "source": "com.simplecounter.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.simplecounter.app-main-38:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.simplecounter.app-release-37:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.simplecounter.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
+    }
+]

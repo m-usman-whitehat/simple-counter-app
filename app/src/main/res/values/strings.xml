@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Counter</string>
+    <string name="increment">Count</string>
+    <string name="reset">Reset</string>
+    <string name="counter_value">%d</string>
+    <string name="app_description">A simple and lightweight counter app for tracking counts, tallies, and numbers. Perfect for everyday counting tasks.</string>
+</resources>
+
